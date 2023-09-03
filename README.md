@@ -12,4 +12,4 @@ Part 2:
 Part 3:
 - Created a Program which uses a min priority queue to create volleyball teams based on win precentage.
 - The Program takes in a JSON file with the number of players, all their combinations and their respective win precentage. 
-    - The Program splits 2n (based on input size) players into teams of 2 so everyone has a win precentage closest to 50% and prints the new teams to a JSON object. 
+- The Program splits 2n (based on input size) players into teams of 2 so everyone has a win precentage closest to 50% and prints the new teams to a JSON object. 
